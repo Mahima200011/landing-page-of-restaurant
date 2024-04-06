@@ -6,8 +6,7 @@ This is a food landing page project created as part of a task for Guvi. It's a s
 
 ## Demo
 
-You can see a live demo of the Food Landing Page [here](https://food-landing-pages1.netlify.app/).
-
+You can see a live demo of the Food Landing Page [here]
 ## Screenshots
 
 ![App Screenshot](./img/web-image.jpeg)
